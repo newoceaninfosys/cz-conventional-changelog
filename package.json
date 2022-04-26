@@ -1,6 +1,6 @@
 {
   "name": "@nois/cz-conventional-changelog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Commitizen adapter following the conventional-changelog format and also asking for issue.",
   "main": "index.js",
   "scripts": {

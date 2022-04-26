@@ -11,7 +11,7 @@ Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts f
 ### Installation
 
 ```bash
-npm install commitizen @nois/newoceaninfosys
+npm install commitizen @nois/cz-conventional-changelog
 ```
 
 and then add the following to package.json:
